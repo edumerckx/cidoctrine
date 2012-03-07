@@ -1,7 +1,5 @@
 Integração CodeIgniter + Smarty + Doctrine
 
-Configurar application/config/database.php
-
 Fontes:
 http://codeigniter.com/wiki/Using_Doctrine_with_Code_Igniter
 http://www.coolphptools.com/codeigniter-smarty
